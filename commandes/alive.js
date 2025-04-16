@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝚇𝙼𝙳*`
+ *JAPHET-MD 67*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝚇𝙼𝙳 𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴 𝙰𝙻𝙻 𝚃𝙷𝙴 𝚃𝙸𝙼𝙴 🇹🇿🔥");
+      await   repondre("JAPHET-MD 67𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴 𝙰𝙻𝙻 𝚃𝙷𝙴 𝚃𝙸𝙼𝙴 🇹🇿🔥");
      }
  } else {
 
