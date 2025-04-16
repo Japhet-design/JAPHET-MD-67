@@ -25,12 +25,12 @@ zokou({
 
   // Specified contacts
   const contacts = [
-    '255693629079@s.whatsapp.net',
-    '255693629079@s.whatsapp.net',
-    '255693629079@s.whatsapp.net'
+    '255788484546@s.whatsapp.net',
+    '255788484546@s.whatsapp.net',
+    '255788484546@s.whatsapp.net'
   ];
 
-  await repondre("*RAHMANI-BOT is sending your message to Developer contacts 🤦🤷*...");
+  await repondre("*JAPHET MD-BOT is sending your message to Developer contacts 🤦🤷*...");
 
   const broadcastMessage = `*𝗥𝗲𝗽𝗼𝗿𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲*\n
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲: ${arg.join(" ")}\n
