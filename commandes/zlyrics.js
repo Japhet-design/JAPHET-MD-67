@@ -1,5 +1,5 @@
 
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Japhet");
 const axios = require("axios");
 
 // Define the command with aliases
