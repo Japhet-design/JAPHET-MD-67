@@ -1,5 +1,5 @@
 {
-  "name": "RAHMAN-XMD",
+  "name": "JAPHET-MD 67",
   "description": "Whatsapp device bot made to help Whatsapp users to enjoy while helping..",
   "keywords": [
     "bot",
@@ -14,13 +14,13 @@
   "env": {
     "PREFIX": {
       "description": "Choose your bot's prefix",
-      "value": ".",
+      "value": "*",
       "required": true
     },
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
-      "required": false
+      "required": false 
     },
     "AUDIO_REPLY": {
       "description": "Enter yes for your bot to auto reply audio in all chats",
@@ -74,7 +74,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "RAHMAN-XMD",
+      "value": "JAPHET-MD 67",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -99,7 +99,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "rahman",
+      "value": "JAPHET",
       "required": false
     },
     "URL": {
@@ -114,7 +114,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547')",
-      "value": "+255 693 629 079",
+      "value": "+255788484546",
       "required": false
     },
     "WARN_COUNT": {
