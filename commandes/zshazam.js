@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../japhet");
 const acrcloud = require("acrcloud");
 const yts = require("yt-search");
 const ytdl = require("ytdl-core");
