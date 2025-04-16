@@ -274,12 +274,12 @@ zokou({ nomCom: 'problem',
 ┃LIFE💀
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 rahmaniMd 𖥘
+❶ || Creator = 𖥘 JaphetMd67 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://wa.me/c/255693629079 👈
+Wanna talk to me?👉 https://wa.me/c/255788484546 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 © *Rahmani Md *`) 
 
