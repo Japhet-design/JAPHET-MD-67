@@ -1,4 +1,4 @@
-const { keith } = require("../keizzah/keith");
+const { keith } = require("../japhet");
 const { Catbox } = require("node-catbox");
 const fs = require('fs-extra');
 const { downloadAndSaveMediaMessage } = require('@whiskeysockets/baileys');
@@ -24,7 +24,7 @@ async function uploadToCatbox(filePath) {
 }
 
 // Command to upload image, video, or audio file
-keith({
+Japhet({
   'nomCom': 'url',       // Command to trigger the function
   'categorie': "General", // Command category
   'reaction': '👨🏿‍💻'    // Reaction to use on command
