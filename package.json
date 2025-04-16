@@ -1,24 +1,24 @@
 {
-  "name": "Bmw-md",
+  "name": "JAPHET-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "JAPHET-MD 67",
   "scripts": {
-    "test": "node ibrahim.js",
+    "test": "node japhet.js",
     "s": "node ibrahim.js",
-    "toshtech": "pm2 start ibrahim.js --attach",
-    "toshtech": "pm2 start ibrahim.js --attach",
+    "toshtech": "pm2 start japhet.js --attach",
+    "toshtech": "pm2 start japhet.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "Japhet-md 67",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "Japhet-md-boy"
   ],
-  "author": "Marisel",
+  "author": "Japhet",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
