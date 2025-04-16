@@ -1,5 +1,5 @@
 
-const { ezra } = require("../Rahmani/Md");
+const { ezra } = require("../Japhet-Md 67");
 const axios = require('axios');
 const ytSearch = require('yt-search');
 
