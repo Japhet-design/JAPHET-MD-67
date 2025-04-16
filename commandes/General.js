@@ -62,7 +62,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
         { nom: "dev RahmaniMd", numero: "255693629079" }  
     ];  
   
-    let message = "WELCOME TO JAPHET-MD HELP CENTER! ASK FOR HELP FROM THE DEVELOPER BELOW:\n\n";  
+    let message = "WELCOME TO JAPHET-MD 67 HELP CENTER! ASK FOR HELP FROM THE DEVELOPER BELOW:\n\n";  
     for (const dev of devs) {  
         message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;  
     }  
@@ -92,6 +92,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {  
     const { ms, repondre, auteurMessage } = commandeOptions;  
   
-    repondre("THANK YOU FOR CHOOSING JAPHET-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/deshallos1/RAMN-XMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑹𝒂𝒉𝒎𝒂𝒏𝒊 𝑴𝒅");  
+    repondre("THANK YOU FOR CHOOSING JAPHET-MD 67, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/deshallos1/RAMN-XMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 japhet md");  
     await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING JAPHET-MD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
 });
