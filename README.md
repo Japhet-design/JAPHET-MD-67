@@ -1,5 +1,5 @@
 
-<p align="center">                                                  𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃
+<p align="center">                                                  JAPHET-MD 67
   
 
 </p>
@@ -25,7 +25,7 @@
       <b>FORK</b><br>
       Fast Fork and star and get you session ld press Heroku deploy you bot.
       <br><br>
-      <a href="https://github.com/Qartde/RAHMANI-XMD/fork">
+      <a href="https://github.com/Qartde/JAPHET-MD 67/fork">
         <img src="https://img.shields.io/badge/FORK-purple" alt="FORK NJABULOJ" width="150">
       </a>
     </td>
@@ -40,18 +40,18 @@
   </tr>
   <tr>
     <td align="center">
-      <b>DEPLOY RAHMAN XMD</b><br>
+      <b>DEPLOY JAPHET</b><br>
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Qartde/RAHMANI-XMD&template=https://github.com/Qartde/RAHMANI-XMD.git">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Qartde/JAPHET-MD 57&template=https://github.com/Qartde/RAHMANI-XMD.git">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
     <td align="center">
-      <b>DEPLOY RAHMAN XMD</b><br>
+      <b>DEPLOY JAPHET-MD 67/b><br>
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
-       <a href="https://dashboard.heroku.com/new?button-url=https://https://github.com/Qartde/RAHMANI-XMD&template=https://github.com/Qartde/RAHMANI-XMD.git">
+       <a href="https://dashboard.heroku.com/new?button-url=https://https://github.com/Qartde/JAPHET-MD m67MD&template=https://github.com/Qartde/JAPHET -MD 67.git">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
