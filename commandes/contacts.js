@@ -28,7 +28,7 @@ zokou({ nomCom: 'love',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*You came as an unexpected person in my life.....Now you are most important person in my life I love ❤️❤️💠 you forever and always.*`) 
+                 await repondre(`*You came as an unexpected person in my life.....Now you are most important person in my  I love ❤️❤️💠 you forever and always.*`) 
 
    
 
@@ -148,7 +148,7 @@ zokou({ nomCom: 'pkl',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Rahmani-md is running...... Love it_*`) 
+                 await repondre(`*_Japhet-md 67is running...... Love it_*`) 
 
    
 
@@ -269,7 +269,7 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(` ┏━━━━━━━━━━━━━━
-┃𝚁𝙰𝙷𝙼𝙰𝙽𝙸_𝙼𝙳-BOT 🎉🎉🎉 
+┃JAPHET_MD-BOT 🎉🎉🎉 
 | THUG 
 ┃LIFE💀
 ┗━━━━━━━━━━━━━━━
