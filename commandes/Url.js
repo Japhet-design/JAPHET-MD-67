@@ -1,4 +1,4 @@
-const { keith } = require("../japhet");
+const { japhet } = require("../japhet");
 const { Catbox } = require("node-catbox");
 const fs = require('fs-extra');
 const { downloadAndSaveMediaMessage } = require('@whiskeysockets/baileys');
