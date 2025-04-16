@@ -1,7 +1,7 @@
 const { pkdriller } = require("../pkdriller/pkdriller");
 const conf = require(__dirname + "/../set");
 
-keith({
+Japhet({
   nomCom: "profile",
   aliases: ["pp", "whois"],
   desc: "to generate profile picture",
