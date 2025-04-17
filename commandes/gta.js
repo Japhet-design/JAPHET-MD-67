@@ -24,7 +24,7 @@ zokou({
       'image': {
         'url': _0x93b128
       },
-      'caption': "*powered by RAHMANI MD*"
+      'caption': "*powered by JAPHET-MD 67*"
     }, {
       'quoted': _0x4eb9fe
     });
