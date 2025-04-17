@@ -20,11 +20,11 @@
 
 
 <p align="center">
-<a href="https://github.com/Next5x/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?color=blue&style=flat-square"></a>
-<a href="https://github.com/Next5x/TIMNASA_TMD1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Next5x/TIMNASA_TMD1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Next5x/TIMNASA_TMD1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Next5x/TIMNASA_TMD1?color=blue&style=flat-square"></a>
-<a href="https://github.com/tryphonee/MATELEE-TMD1/"><img title="Size" src="https://img.shields.io/github/repo-size/Japhet-design/JAPHET-MD-67?style=flat-square&color=blue"></a>
-<a href="https://github.com/Japhet-design/JAPHET-MD-67/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Next5x/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?color=pink&style=flat-square"></a>
+<a href="https://github.com/Next5x/TIMNASA_TMD1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Next5x/TIMNASA_TMD1?color=pink&style=flat-square"></a>
+<a href="https://github.com/Next5x/TIMNASA_TMD1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Next5x/TIMNASA_TMD1?color=pink&style=flat-square"></a>
+<a href="https://github.com/tryphonee/MATELEE-TMD1/"><img title="Size" src="https://img.shields.io/github/repo-size/Japhet-design/JAPHET-MD-67?style=flat-square&color=pink"></a>
+<a href="https://github.com/Japhet-design/JAPHET-MD-67/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-pink.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -44,7 +44,7 @@
 
   
    
-   <a href="https://github.com/Japhet-design/JAPHET-MD-67/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Japhet-design/JAPHET-MD-67/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=pink&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -55,7 +55,7 @@
  
 
 
-  <a href="https://timnasa-md42.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=yello&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://timnasa-7rni.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=yello&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
