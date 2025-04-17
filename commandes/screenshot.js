@@ -36,7 +36,7 @@ async (conn, mek, m, {
 
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*📸 WEB SCREENSHOT DOWNLOADER*\n\n> *© Powered By 𝚁𝙰𝙷𝙼𝙰𝙽𝙸*",
+      caption: "*📸 WEB SCREENSHOT DOWNLOADER*\n\n> *© Powered By JAPHET*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
