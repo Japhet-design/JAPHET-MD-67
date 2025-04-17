@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MATELEE+MD;WHATSAPP+BOT+CREATED+BY+MATELEE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +JAPHET+MD;WHATSAPP+BOT+CREATED+BY+JAPHET-KING" alt="Typing SVG" /></a>
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=MATELEE+TMD+)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=JAPHET+TMD+)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/81x5xt.jpg" width="500" height="500" />
 
@@ -22,8 +22,8 @@
 <a href="https://github.com/Next5x/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?color=blue&style=flat-square"></a>
 <a href="https://github.com/Next5x/TIMNASA_TMD1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Next5x/TIMNASA_TMD1?color=blue&style=flat-square"></a>
 <a href="https://github.com/Next5x/TIMNASA_TMD1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Next5x/TIMNASA_TMD1?color=blue&style=flat-square"></a>
-<a href="https://github.com/tryphonee/MATELEE-TMD1/"><img title="Size" src="https://img.shields.io/github/repo-size/tryphonee/MATELEE-TMD1?style=flat-square&color=blue"></a>
-<a href="https://github.com/tryphonee/MATELEE-TMD1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/tryphonee/MATELEE-TMD1/"><img title="Size" src="https://img.shields.io/github/repo-size/Japhet-design/JAPHET-MD-67?style=flat-square&color=blue"></a>
+<a href="https://github.com/Japhet-design/JAPHET-MD-67/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -43,7 +43,7 @@
 
   
    
-   <a href="https://github.com/tryphonee/MATELEE-TMD1/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Japhet-design/JAPHET-MD-67/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -73,14 +73,14 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/tryphonee/MATELEE-TMD1"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Japhet-design/JAPHET-MD-67"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[____MATELEE TMD1________________________________________________]
+[____JAPHET TMD1________________________________________________]
 
 
 
@@ -90,29 +90,13 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## MATELEE CONTACT
+## JAPHET CONTACT
   
-<a href="https://wa.me/255697993596"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+<a href="https://wa.me/255784766591"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/tryphonee/MATELEE-TMD1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="MATELEE-TMD1 "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+  <a 
 </p>
 
+##  JAPHET TECH SUPPORT
 
-   
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-
-
-<p align="center">
-    <a href="https://chat.whatsapp.com/GfmBCCZR34g5EqMHpFLzZN">
-        <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red">
-    </a>
-</p>
-
-##  MATELEE TECH SUPPORT
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=MULT MATELEE TMD BOT +MAKE; STAR ⭐+AND+FORKS+BY+MATELEE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=MULT JAPHET TMD BOT +MAKE; STAR ⭐+AND+FORKS+BY+JAPHET" alt="Typing SVG" /></a>
