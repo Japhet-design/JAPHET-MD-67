@@ -43,7 +43,7 @@ async (conn, mek, m, {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363345407274799@newsletter',
-          newsletterName: "RAHMANI XMD",
+          newsletterName: "JAPHET-MD 67",
           serverMessageId: 143,
         },
       },
