@@ -35,9 +35,9 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
- *Tap on the link to get session👑get connected by Rahmani*
+ *Tap on the link to get session👑get connected by Japhet MD 67*
   
- https://rahmani-md-7xqe.onrender.com/
+ https://Japhet-design/JAPHET-MD-67.onrender.com/
  
  
  *STEPS TO GET SESSION*
@@ -49,11 +49,11 @@ const date = moment().format('DD/MM/YYYY');
  5. It will load for sometime then pk tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 💻enjoy💻Rahmani💀Md
+ 💻enjoy💻Japhet💀Md67
  `;
     
 let menuMsg = `
-> Made by : © 𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳
+> Made by : © JAPHET WILSON 
 `;
 
    var lien = mybotpic();
@@ -122,19 +122,19 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *Rahmani Md IMPORTANT INFO* 
+   *JAPHET-MD MD 67 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/deshallos1/RAMN-XMD
+> https://github.Japhet-design/JAPHET-MD-67
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
+>https://whatsapp.com/channel/0029Vb651BcLdQejIoVTO90l
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/deshallos1/RAMN-XMD-INFO⁠
+> https://github.com/Japhet-design/JAPHET-MD-67⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Rahmani Md*
+│❒⁠⁠⁠⁠ *DEV* : *JAPHET-MD 67*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
