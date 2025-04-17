@@ -37,7 +37,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   tag +=`
   
 ╭─────────────────━┈⊷ 
-│⛔ RAHMANI-MD 𝐓𝐀𝐆𝐒
+│⛔ JAPHET-MD 67 𝐓𝐀𝐆𝐒
 ╰─────────────────━┈⊷ \n
 │⭕ *Group* : ${nomGroupe} 
 │⭕ *Hey😀* : *${nomAuteurMessage}* 
@@ -666,7 +666,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'Rahmani-XMD',
+          pack: 'JAPHET-MD 67',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
