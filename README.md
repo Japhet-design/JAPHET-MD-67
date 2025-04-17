@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +JAPHET+MD;WHATSAPP+BOT+CREATED+BY+JAPHET-KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pink+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +JAPHET+MD;WHATSAPP+BOT+CREATED+BY+JAPHET-KING" alt="Typing SVG" /></a>
 
 
 
@@ -39,7 +39,7 @@
 ## HOW TO GET BOT WATSAPP.COM
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
   
@@ -51,11 +51,11 @@
 
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=yello&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘+GET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘+GET)](https://git.io/typing-svg)
  
 
 
-  <a href="https://matelee.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=yello&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://timnasa-md42.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=yello&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -70,11 +70,11 @@
 
    🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=yello" width="180" height="43.45"/></a></p>
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=pink" width="180" height="43.45"/></a></p>
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Japhet-design/JAPHET-MD-67"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Japhet-design/JAPHET-MD-67"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=pink&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
