@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=FILA+CODE&weight=500&size=80&pause=1000&color=F72F4F&multiline=true&width=1500&height=800&lines=THIS+IS+JAPHETTECH-MD+;A+SIMPLY+WHATSAPP+BOT+%F0%9F%98%87%F0%9F%98%87;DEVELOPED+BY+JAPHET+WILSON;NUMBER%3A+255788484546+;WELCOME+TO+THIS+WORLD;WORLD+OF+WHATSAPP+BOTS)](https://git.io/typing-svg)) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=FILA+CODE&weight=500&size=80&pause=1000&color=F72F4F&multiline=true&width=1500&height=800&lines=THIS+IS+JAPHETTECH-MD+;A+SIMPLY+WHATSAPP+BOT+%F0%9F%98%87%F0%9F%98%87;DEVELOPED+BY+JAPHET+WILSON;NUMBER%3A+255788484546+;WELCOME+TO+THIS+WORLD;WORLD+OF+WHATSAPP+BOTS)](https://git.io/typing-svg)
 
 
 
